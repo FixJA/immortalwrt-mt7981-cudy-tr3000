@@ -32,6 +32,5 @@ git clone https://github.com/eamonxg/luci-theme-aurora --single-branch --filter=
 git clone https://github.com/eamonxg/luci-app-aurora-config --single-branch --filter=blob:none package/luci-app-aurora-config
 git clone https://github.com/timsaya/luci-app-bandix --single-branch --filter=blob:none package/luci-app-bandix
 git clone https://github.com/timsaya/openwrt-bandix --single-branch --filter=blob:none package/openwrt-bandix
-git clone https://github.com/sirpdboy/netspeedtest.git --single-branch --filter=blob:none package/netspeedtest
 git clone https://github.com/jerrykuku/luci-theme-argon.git --single-branch --filter=blob:none package/luci-theme-argon
 git clone https://github.com/jerrykuku/luci-app-argon-config.git --single-branch --filter=blob:none package/luci-app-argon-config
